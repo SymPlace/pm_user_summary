@@ -1,0 +1,6 @@
+Version history
+===============
+
+1.0.0:
+
+- initial release extracted from Profile Manager v9.2
