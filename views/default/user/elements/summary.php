@@ -21,7 +21,7 @@ if ((elgg_get_plugin_setting("user_summary_control", "profile_manager") == "yes"
 	
 	$config_positions = array("title", "subtitle", "content"); // entity_menu is handled in a hook
 	foreach ($config_positions as $position) {
-		if ($position !== "title") {
+		if ($position !== "title" && $position !== "content") {
 			$vars[$position] = "";
 		}
 		
