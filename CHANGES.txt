@@ -1,6 +1,10 @@
 Version history
 ===============
 
+1.0.2:
+
+- fixed: report output/tags view fix from elgg v2.3.9 
+
 1.0.1:
 
 - fix to be compatible with closed group motivation feature (group_tools plugin)

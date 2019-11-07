@@ -1,10 +1,10 @@
 Profile Manager User Summary plugin for Elgg 2.3
 ================================================
 
-Latest Version: 1.0.1  
-Released: 2019-02-11  
+Latest Version: 1.0.2  
+Released: 2019-11-07  
 License: GNU General Public License version 2  
-Copyright: (C) ColdTrick 2009-2014, (C) Arttic 2018-2019, (C) oseg 2018-2019  
+Copyright: (C) ColdTrick 2009-2014, (C) SymPlace 2018-2019  
 
 
 Description
