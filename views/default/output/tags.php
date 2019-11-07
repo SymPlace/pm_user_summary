@@ -58,7 +58,7 @@ $list_items = '';
 
 $params = $vars;
 foreach($tags as $tag) {
-	if (is_string($tag) && strlen($tag) > 0) {
+	if (is_scalar($tag) && strlen($tag) > 0) {
 		$params['value'] = $tag;
 
 		$list_items .= "<li class=\"$item_class\">";
