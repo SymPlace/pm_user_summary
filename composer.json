@@ -1,0 +1,7 @@
+{
+    "name": "symplace/pm_user_summary",
+    "type": "elgg-plugin",
+    "require": {
+        "composer/installers": ">=1.0.8"
+    }
+}
